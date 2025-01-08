@@ -1,0 +1,4 @@
+red_bucketArch
+yellow_bucket
+blue_bucket
+ramp
